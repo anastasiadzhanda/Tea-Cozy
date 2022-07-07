@@ -53,6 +53,7 @@ nav a{
 }
 
 .banner-area{
+
     width: 1200px;
     height: 700px;
     display: flex;
@@ -70,6 +71,10 @@ nav a{
     justify-content: center;
     background-color: black;
     
+}
+.text-area{
+    position: absolute;
+    margin: 10px;
 }
 
 .text-area{
